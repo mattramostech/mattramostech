@@ -6,7 +6,7 @@ Always driven by innovation and a passion for problem-solving, I’m committed t
 
 - ![Go logo](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 - ![Rust logo](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-- ![Swift logo]([https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white))
+- ![Swift logo](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
 
 
 

@@ -1,4 +1,4 @@
-### I'm Matt Ramos, a Staff Software Engineer passionate about Distributed Systems, Go, Rust, and Swift.
+### I'm Matt Ramos, a Staff Software Engineer expert in Distributed Systems, Go, Rust, and Swift.
 
 I’ve been passionate about solving problems through technology since I started my career in 2014, initially working with C and C++ for IoT solutions. Since then, I’ve transitioned to building robust distributed systems using Go, Rust, and Swift. Throughout my journey, I’ve designed resilient architectures that power scalable, high-performance solutions across backend, mobile, and distributed systems.
 

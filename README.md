@@ -5,7 +5,9 @@ I’ve been passionate about solving problems through technology since I started
 Always driven by innovation and a passion for problem-solving, I’m committed to delivering top-notch solutions that boost business outcomes and elevate user experiences. I wake up every day not just to make a living, but to make a difference, crafting solutions that leave a lasting impact through technology.
 
 ![Go logo](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
 ![Rust logo](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
 ![Swift logo](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
 
 

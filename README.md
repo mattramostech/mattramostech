@@ -6,6 +6,3 @@
 ![AI](https://img.shields.io/badge/AI-FF6F61?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
 
 
-
-### Contact
-Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/mattramostech)!
